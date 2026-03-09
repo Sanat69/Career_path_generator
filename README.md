@@ -40,6 +40,7 @@ Career Path Generator is a **five-module AI pipeline** that takes any user profi
 ---
 
 ## System Architecture
+<img width="500" height="720" alt="Career Path Generator RAG Pipeline" src="https://github.com/user-attachments/assets/5592635c-5dc5-4c47-975f-7e1207e5f450" />
 
 ```
 User (Browser)
